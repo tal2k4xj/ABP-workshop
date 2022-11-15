@@ -1,4 +1,16 @@
-# Welcome to IBM Cloud pak for data workshop !
+# Watson APIs:
+
+### Watson Assistant workshop:
+[Getting Started Tutorial](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-getting-started)
+
+### Watson Discovery workshop:
+[Getting Started Tutorial](https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-getting-started)
+
+### Watson NLU Workshop:
+[Getting Started Tutorial](https://cloud.ibm.com/docs/natural-language-understanding/getting-started.html)
+
+
+# Cloud pak for Data
 
 ### Step 1 - Know the environment
 
