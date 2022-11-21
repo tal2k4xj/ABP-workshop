@@ -18,7 +18,7 @@
 
 6. Give it a name and select "Hebrew" -> Next.
 
-7. Upload the [samsung tv user guide](???????????????) -> Finish.
+7. Upload the [samsung tv user guide](https://github.com/tal2k4xj/ABP-workshop/blob/main/Discovery%20lab/samsung%20tv%20user%20guide.pdf) -> Finish.
 
 ## Smart Document Understanding (SDU)
 
@@ -50,7 +50,7 @@
 
 2. Click New, Choose the language. A dictionary can contain terms in only one language.
 
-3. Add a term and synonyms or upload [samsung tv dictionary](???????????????), when you finish "Save dictionary".
+3. Add a term and synonyms or upload [samsung tv dictionary](https://raw.githubusercontent.com/tal2k4xj/ABP-workshop/main/Discovery%20lab/samsung%20dictionary.csv), when you finish "Save dictionary".
 
 ### Entity extractor
 
@@ -74,7 +74,7 @@
 
 1. Go to "Improve and customize", from the right menu select "Teach domain concepts" and select "Classifiers"
 
-2. Click in "Upload", give it a name and select "Hebrew", upload the [samsung classifier.csv](?????????????)
+2. Click in "Upload", give it a name and select "Hebrew", upload the [samsung classifier.csv](https://raw.githubusercontent.com/tal2k4xj/ABP-workshop/main/Discovery%20lab/samsung%20classifier.csv)
 
 3. Select the relevant fields.
 
