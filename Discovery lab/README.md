@@ -80,6 +80,8 @@
 
 ## Regular expressions
 
+[Full information about Regular expressions](https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-domain-regex)
+
 1. From the Teach domain concepts section of the Improvement tools panel, choose Regular expression.
 
 2. Click Upload.
