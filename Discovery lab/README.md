@@ -93,3 +93,7 @@
 ## Query
 
 [Full information about Query](https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-query-concepts)
+
+## Open source nlp editor
+
+https://github.com/CODAIT/nlp-editor
